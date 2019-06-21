@@ -1,0 +1,6 @@
+User-agent: Yandex
+Disallow:
+Host: http://xn--b1agamoihlz8b9bh.xn--p1ai/
+
+User-agent: *
+Disallow:
